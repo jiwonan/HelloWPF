@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button HorizontalAlignment="Left" Margin="401,185,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="안녕? Hello World, 안지원!" HorizontalAlignment="Left" Margin="158,72,0,0" VerticalAlignment="Top" Width="477" Height="255" Background="#FFFF9D9D" BorderBrush="White" FontFamily="Yu Gothic UI Semibold" Foreground="White" FontSize="24"/>
+        <Button Content="안녕? Hello World, 안지원!" HorizontalAlignment="Left" Margin="158,72,0,0" VerticalAlignment="Top" Width="477" Height="255" Background="#FFFF9D9D" BorderBrush="#FFFF6262" FontFamily="Yu Gothic UI Semibold" FontSize="24" Click="Button_Click" Foreground="White"/>
 
     </Grid>
 </Window>
